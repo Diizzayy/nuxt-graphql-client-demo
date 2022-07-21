@@ -9,6 +9,6 @@
     "nuxt": "^3.0.0-rc.6"
   },
   "dependencies": {
-    "nuxt-graphql-client": "^0.1.4"
+    "nuxt-graphql-client": "^0.1.6"
   }
 }
